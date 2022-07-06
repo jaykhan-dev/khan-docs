@@ -1,8 +1,16 @@
-# Jay Khan Portfolio
+---
+tags:
+  - HTML5
+  - JavaScript
+  - CSS
+  - Other
+---
+
+# Introduction
 
 The landing page is located at [JKhan](https://jkhan.live)
 
-![Mongolain Horse Archer](/images/mongolian-horse-archer.jpg)
+![Mongolain Horse Archer](/assets/mongolian-horse-archer.jpg)
 
 ## Commands
 
@@ -17,3 +25,9 @@ The landing page is located at [JKhan](https://jkhan.live)
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+## Contact
+
+**email**: jaykhan.sound@gmail.com
+
+**phone**: +1 613 707 0696

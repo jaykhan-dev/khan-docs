@@ -1,3 +1,91 @@
-site_name: My Docs
+site_name: Jay Khan
 theme:
   name: material
+  logo: assets/jk-logo-white.svg
+  font:
+    text: Lato
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.expand
+    - navigation.top
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+copyright: Copyright &copy; 2022 Jay Khan
+
+extra:
+  homepage: https://jkhan.live
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/jaykhan_sound
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/jkhan.sound
+    - icon: fontawesome/brands/github 
+      link: https://github.com/jaykhan-dev
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/jkhanprofile
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+
+plugins:
+  - tags:
+      tags_file: tags.md
+  - search
+
+markdown_extensions:
+  - meta
+
+nav:
+  - Home: index.md
+  - Work:
+    - work/index.md
+    
+    - UI/UX:
+      - Pitbull Community: work/pitbull-community.md
+      - Appreci: work/appreci.md
+    
+    - Blockchain:
+      - Sound Money: work/soundmoney.md
+      - Sound Endeavr: work/soundendeavr.md
+      - Sound Co: work/soundco.md
+
+    - Design process: work/designprocess.md
+    - Content Strategy: work/contentstrategy.md
+    
+  - Blog: 
+    - blog/index.md
+    - Bitcoin: blog/bitcoin.md
+    - Lightning: blog/lightning.md
+  - Music:
+    - music/index.md
+    - Eternal Blue Sky: music/ebs.md
+
