@@ -1,4 +1,14 @@
-
+---
+tags:
+  - after effects
+  - adobe cc
+  - photoshop
+  - illustrator
+  - animation
+  - motion graphics
+  - education
+  - marketing
+---
 
 ## Motion Graphics
  

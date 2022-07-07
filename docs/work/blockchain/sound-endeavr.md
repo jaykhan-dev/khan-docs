@@ -1,12 +1,26 @@
-
+---
+tags:
+  - blockchain
+  - bitcoin
+  - vue js
+  - tailwind css
+  - music
+  - nft
+  - p2p
+  - art
+  - platform
+  - algorand
+  - crypto
+---
 
 # Endeavr
-
-[See live prototype](https://soundendeavr.netlify.app/)
 
 ![Endeavr Hero](/work/blockchain/sound-endeavr/endeavr-new-bg.png)
 
 ## Project details
+
+[See live prototype](https://soundendeavr.netlify.app/)
+
 Endeavr is a music project on the Algorand blockchain that eliminates the need for middlemen.  The music industry is constantly evolving.  Any new technology appears threatening but eventually it becomes the norm.  A great example in recent times is the creation of the MP3 which makes creating exact digital copies easy, cheap and fast.  Companies like Napster got a lot of heat for sharing music without having to pay for it that it got sued and eventually had to change its business model.  
 
 With the blockchain, music owernship is no longer a problem.  Anyone with an internet connection can invest directly with the artist rather than buy a song through a third party vendor.  To be sure, giant corporations like Universal control a large portion of the copyrights and have considerable power over an artists career.  It is possible to bypass shady record deals by focusing on the *creator-borderless-economy.*

@@ -1,4 +1,13 @@
-
+---
+tags:
+  - uiux
+  - user interface
+  - user experience
+  - vue js
+  - tailwind css
+  - accounting
+  - budgeting
+---
 
 # Budgetmore
 

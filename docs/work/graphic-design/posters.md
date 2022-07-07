@@ -1,3 +1,11 @@
+---
+tags:
+  - photoshop
+  - illustrator
+  - adobe cc
+  - print
+  - online
+---
 
 # Posters
 

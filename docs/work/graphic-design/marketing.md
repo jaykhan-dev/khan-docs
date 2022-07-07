@@ -1,4 +1,12 @@
-
+---
+tags:
+  - adobe cc
+  - photoshop
+  - illustrator
+  - after effects
+  - marketing
+  - digital assets
+---
 
 ## Marketing material
 

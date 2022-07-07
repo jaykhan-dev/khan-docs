@@ -1,4 +1,16 @@
-
+---
+tags:
+  - blockchain
+  - uiux
+  - user interface
+  - user experience
+  - bitcoin
+  - afiliate marketing
+  - e-commerce
+  - blog
+  - vue js
+  - tailwind css
+---
 
 # Sound Money
 Bitcoin affiliates and marketing app.  Blogging and learning resources are the main way to keeping content flowing.
