@@ -4,11 +4,29 @@ tags:
   - overview
   - skills
   - industries
+  - uiux
+  - user interface
+  - user experience
+  - adobe cc
+  - adobe xd
+  - figma
+  - user flows
+  - persona
+  - journey mapping
+  - pain points
+  - user research
+  - usability testing
 ---
 
 # UI/UX
 
-I have 3 years of exerience as a UI/UX designer as of this moment.  In that time, I've helped clients redesign their websites, create new landing pages and create content strategies.  
+I have 3 years of exerience as a UI/UX designer as of this moment.  In that time, I've helped clients redesign their websites, create new landing pages and create content strategies.
+
+The deliverables usually include:
+
+- Wireframes
+- Prototypes
+- Digital assets
 
 ## Key insights
 
