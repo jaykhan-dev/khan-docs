@@ -1,33 +1,21 @@
 ---
+title: Jay Khan Portfolio
+description: Designer, Developer, blockchain enthusiast and musician.
 tags:
-  - HTML5
-  - JavaScript
-  - CSS
-  - Other
+  - designer
+  - developer
+  - blockchain
+  - musician
 ---
 
-# Introduction
+# Overview
 
-The landing page is located at [JKhan](https://jkhan.live)
+![Jay Khan portrait](/about/jaykhan-picture.png)
 
-![Mongolain Horse Archer](/assets/mongolian-horse-archer.jpg)
+I am a designer, developer, and a musician.  I advocate for blockchain technology because it makes self sovereignty possible.  
 
-## Commands
+## P2P
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+A decentralized internet is the next big thing.  It is the brave new world of data ownership where power is not centralized with a few companies.  A P2P system is not a new invention but it is about to become a lot more mainstream than ever.  Blockchain technology is a major component of this vision.  Learning about it has opened my eyes to how my online activities were never private and never in my control.  
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Contact
-
-**email**: jaykhan.sound@gmail.com
-
-**phone**: +1 613 707 0696

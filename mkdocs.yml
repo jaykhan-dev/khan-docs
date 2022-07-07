@@ -9,9 +9,7 @@ theme:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
-    - navigation.sections
     - navigation.indexes
-    - navigation.expand
     - navigation.top
 
   palette:
@@ -34,6 +32,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+
+      primary: blue
+      accent: green
 
 copyright: Copyright &copy; 2022 Jay Khan
 
@@ -65,26 +66,79 @@ markdown_extensions:
   - meta
 
 nav:
-  - Home: index.md
+  - Docs Home: 
+    - index.md
+    - Services: about/services.md
+    - Resume: about/resume.md
+    - Tech: about/tech.md
+    - Bio: about/bio.md
+    - Contact: about/contact.md
+    
   - Work:
     - work/index.md
     
     - UI/UX:
-      - Pitbull Community: work/pitbull-community.md
-      - Appreci: work/appreci.md
-    
-    - Blockchain:
-      - Sound Money: work/soundmoney.md
-      - Sound Endeavr: work/soundendeavr.md
-      - Sound Co: work/soundco.md
+      - Appreci: work/uiux/appreci/appreci.md
+      - Scribendi: work/uiux/scribendi/scribendi.md
+      - Budgetmore: work/uiux/budgetmore/budgetmore.md
+      - Conflict Alerts: work/uiux/conflict-alerts/conflict-alerts.md
+      - Shaybeas: work/uiux/shaybeas/shaybeas.md
 
-    - Design process: work/designprocess.md
-    - Content Strategy: work/contentstrategy.md
+    - Blockchain:
+      - Sound Money: work/blockchain/sound-money/sound-money.md
+      - Sound Endeavr: work/blockchain/sound-endeavr/sound-endeavr.md
+      - Pitbull Community: work/blockchain/pitbull-community/pitbull-community.md
+
+    - Graphic Design:
+      - Logos: work/graphic-design/logos/logos.md
+      - Posters: work/graphic-design/posters/posters.md
+      - Marketing: work/graphic-design/marketing/marketing.md
+      - Social Media: work/graphic-design/social-media/social-media.md
+      - Motion Graphics: work/graphic-design/motion-graphics/motion-graphics.md
+
+    - Design Philosophy: work/design-philosophy/design-philosophy.md
+
+    - Content Strategy: work/content-strategy/content-strategy.md
     
   - Blog: 
     - blog/index.md
-    - Bitcoin: blog/bitcoin.md
-    - Lightning: blog/lightning.md
+    
+    - Blockchain:
+      - blog/blockchain/intro.md
+      - Bitcoin:
+        - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
+      - Algorand:
+        - Algorand Blockchain: blog/blockchain/algorand/algorand.md
+        - STOI: blog/blockchain/algorand/stoi.md
+      - Web3: 
+        - Contra: blog/blockchain/web3/contra.md
+        - DAO: blog/blockchain/web3/dao.md
+        - DeFi: blog/blockchain/web3/defi.md
+        - E-Commerce: blog/blockchain/web3/e-comm.md
+        - The Industry: blog/blockchain/web3/industry.md
+        - Stablecoins: blog/blockchain/web3/stablecoins.md
+        - Web3 Jobs: blog/blockchain/web3/web3-jobs.md
+        - Integration: blog/blockchain/web3/web3-integration.md
+    
+    - Python:
+      - Intro to Python: blog/python/intro.md
+      
+    - JavaScript:
+      - Vue JS:
+        - Intro: blog/javascript/vue/vue-js.md
+        - Globals: blog/javascript/vue/globals.md
+        - Tabs: blog/javascript/vue/creating-tabs.md
+        - GSAP: blog/javascript/vue/gsap.md
+        - Marquee: blog/javascript/vue/marquee.md
+        - Pinia: blog/javascript/vue/pinia-algo.md
+        - Responsive Nav: blog/javascript/vue/responsive-nav.md
+    
+    - Philosohpy:
+      - Alan Watts: blog/philosophy/alan-watts.md
+      - Art of War: blog/philosophy/art-of-war.md
+      - The Stoics: blog/philosophy/stoics.md
+      - Musashi: blog/philosophy/musashi.md
+
   - Music:
     - music/index.md
     - Eternal Blue Sky: music/ebs.md
