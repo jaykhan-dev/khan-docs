@@ -78,7 +78,7 @@ nav:
     - work/index.md
     
     - UI/UX:
-      - Intro: work/uiux/uiux.md
+      - Intro: work/uiux/intro.md
       - Appreci: work/uiux/appreci.md
       - Scribendi: work/uiux/scribendi.md
       - Budgetmore: work/uiux/budgetmore.md
@@ -86,6 +86,7 @@ nav:
       - Shaybeas: work/uiux/shaybeas.md
 
     - Blockchain:
+      - Intro: work/blockchain/intro.md
       - Sound Money: work/blockchain/sound-money.md
       - Sound Endeavr: work/blockchain/sound-endeavr.md
       - Pitbull Community: work/blockchain/pitbull-community.md
