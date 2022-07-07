@@ -78,27 +78,29 @@ nav:
     - work/index.md
     
     - UI/UX:
-      - Appreci: work/uiux/appreci/appreci.md
-      - Scribendi: work/uiux/scribendi/scribendi.md
-      - Budgetmore: work/uiux/budgetmore/budgetmore.md
-      - Conflict Alerts: work/uiux/conflict-alerts/conflict-alerts.md
-      - Shaybeas: work/uiux/shaybeas/shaybeas.md
+      - Intro: work/uiux/uiux.md
+      - Appreci: work/uiux/appreci.md
+      - Scribendi: work/uiux/scribendi.md
+      - Budgetmore: work/uiux/budgetmore.md
+      - Conflict Alerts: work/uiux/conflict-alerts.md
+      - Shaybeas: work/uiux/shaybeas.md
 
     - Blockchain:
-      - Sound Money: work/blockchain/sound-money/sound-money.md
-      - Sound Endeavr: work/blockchain/sound-endeavr/sound-endeavr.md
-      - Pitbull Community: work/blockchain/pitbull-community/pitbull-community.md
+      - Sound Money: work/blockchain/sound-money.md
+      - Sound Endeavr: work/blockchain/sound-endeavr.md
+      - Pitbull Community: work/blockchain/pitbull-community.md
 
     - Graphic Design:
-      - Logos: work/graphic-design/logos/logos.md
-      - Posters: work/graphic-design/posters/posters.md
-      - Marketing: work/graphic-design/marketing/marketing.md
-      - Social Media: work/graphic-design/social-media/social-media.md
-      - Motion Graphics: work/graphic-design/motion-graphics/motion-graphics.md
+      - Intro: work/graphic-design/intro.md
+      - Logos: work/graphic-design/logos.md
+      - Posters: work/graphic-design/posters.md
+      - Marketing: work/graphic-design/marketing.md
+      - Social Media: work/graphic-design/social-media.md
+      - Motion Graphics: work/graphic-design/motion-graphics.md
 
-    - Design Philosophy: work/design-philosophy/design-philosophy.md
+    - Design Philosophy: work/design-philosophy.md
 
-    - Content Strategy: work/content-strategy/content-strategy.md
+    - Content Strategy: work/content-strategy.md
     
   - Blog: 
     - blog/index.md
