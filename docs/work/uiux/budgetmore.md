@@ -7,6 +7,9 @@ tags:
   - tailwind css
   - accounting
   - budgeting
+  - html
+  - css
+  - javascript
 ---
 
 # Budgetmore

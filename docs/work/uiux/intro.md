@@ -16,6 +16,9 @@ tags:
   - pain points
   - user research
   - usability testing
+  - html
+  - css
+  - javascript
 ---
 
 # UI/UX

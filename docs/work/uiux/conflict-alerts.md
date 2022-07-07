@@ -7,6 +7,9 @@ tags:
   - tailwind css
   - django
   - ukraine
+  - html
+  - css
+  - javascript
 ---
 
 # Conflict Alerts

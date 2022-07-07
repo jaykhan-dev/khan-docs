@@ -10,6 +10,9 @@ tags:
   - web design
   - prototype
   - wordpress
+  - html
+  - css
+  - javascript
 ---
 
 # Appreci
