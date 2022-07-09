@@ -126,6 +126,10 @@ nav:
     
     - Python:
       - Intro to Python: blog/python/intro.md
+      - Django:
+        - Django intro: blog/python/django/django-intro.md
+        - Ninja CRUD: blog/python/django/ninja-crud.md
+        - Wagtail intro: blog/python/django/wagtail-intro.md
       
     - JavaScript:
       - Vue JS:
