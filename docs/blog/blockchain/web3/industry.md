@@ -1,5 +1,12 @@
 ---
-sidebar: auto
+tags:
+  - software
+  - web3
+  - api
+  - rest api
+  - blockchain
+  - industry
+  - technology
 ---
 
 # The Software Industry

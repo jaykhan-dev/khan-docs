@@ -1,3 +1,12 @@
+---
+tags:
+  - vue js
+  - javascript
+  - marquee
+  - plugin
+  - npm
+---
+
 # Vue 3 Marquee
 
 Using a marquee in Vue JS is really easy.  First you need to install the node package for Vue 3, include it in the `main.js` file, define the `data` and create a `v-for` loop in the HTML.

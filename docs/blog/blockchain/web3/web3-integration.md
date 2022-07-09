@@ -1,4 +1,11 @@
-
+---
+tags:
+  - web3
+  - blockchain
+  - e-commerce
+  - integration
+  - benefits
+---
 
 # Web3 Integration
 

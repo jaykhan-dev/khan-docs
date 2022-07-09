@@ -1,5 +1,10 @@
 ---
-sidebar: auto
+tags:
+  - javascript
+  - gsap
+  - animation
+  - scrolling
+  - vue js
 ---
 
 # GSAP

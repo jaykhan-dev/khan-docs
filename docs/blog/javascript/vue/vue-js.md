@@ -1,3 +1,23 @@
+---
+tags:
+  - vue js
+  - javascript
+  - framework
+  - user interface
+  - spa
+  - ssr
+  - progressive
+  - web
+  - open source
+  - pwa
+  - typescript
+  - vuex
+  - vue router
+  - vite
+  - pinia
+  - nuxt
+  - vuepress
+---
 
 # Vue JS
 
@@ -83,9 +103,3 @@ It is possible to use Vue for popular e-commerce platforms.  The preferred way i
 
 ## Web3
 The fact that Vue JS can be used with web3 is a major plus in my book.  I plan on using it a lot to build dapps, especially for Ethereum and Algorand.  See below for the respective links.
-
-### Algorand JavaScript SDK
-[Github](https://github.com/algorand/js-algorand-sdk)
-
-### Web3.js 
-[Web3 docs](https://web3js.readthedocs.io/en/v1.7.1/)

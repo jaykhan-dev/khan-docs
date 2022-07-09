@@ -1,4 +1,12 @@
-
+---
+tags:
+  - music
+  - composition
+  - composer
+  - songwriting
+  - musician
+  - blockchain
+---
 
 # Eternal Blue Sky
 

@@ -1,5 +1,15 @@
 ---
-sidebar: auto
+tags:
+  - vue js
+  - javascript
+  - bitcoin
+  - price
+  - example
+  - state management
+  - axios
+  - json
+  - rest api
+  - api
 ---
 
 # Pinia
@@ -24,7 +34,7 @@ export const usePriceStore = defineStore("price", {
     async fetchPrice() {
       try {
         const data = await axios.get(
-          "https://min-api.cryptocompare.com/data/price?fsym=ALGO&tsyms=USD"
+          "https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD"
         );
         this.price = data.data;
       } catch (error) {
@@ -58,7 +68,7 @@ import { ref, onMounted, computed } from "vue";
 import { usePriceStore } from "../stores/price";
 
 const store = usePriceStore();
-const msg = ref("Algo USD");
+const msg = ref("BTC USD");
 const price = computed(() => {
   return store.price;
 });

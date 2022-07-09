@@ -1,4 +1,11 @@
-
+---
+tags:
+  - blockchain
+  - decentralization
+  - finance
+  - permissionless
+  - p2p
+---
 
 # DeFi
 Decentralized Finance is the future of finance.  Ever since Bitcoin came onto the scene as an antidote to the central banks, the financial world has seen some seismic changes in how money is used. In contrast to the banks, anyone can create an account in the crypto-verse as long as they have access to the internet.  Even banks themselves are adopting the technology (at least the smart ones) because they fear losing out on a rapidly growing market. 

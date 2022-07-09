@@ -1,4 +1,16 @@
-
+---
+tags:
+  - blockchain
+  - web3
+  - jobs
+  - remote
+  - work
+  - development
+  - design
+  - crypto
+  - salary
+  - wage
+---
 
 # Crypto Jobs
 The Crypto job market has taken off big time.  Blockchain seems to be the hottest industry now and this is clearly evident because of how it keeps popping up in the news and political discourse.  The industry is only going to grow more because even banks are starting to adopt the techonology.  

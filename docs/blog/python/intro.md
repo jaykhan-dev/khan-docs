@@ -1,5 +1,14 @@
 ---
-sidebar: auto
+tags:
+  - python
+  - programming
+  - django
+  - django ninja
+  - wagtail
+  - pep
+  - zen
+  - development
+  - developer
 ---
 
 # Python
@@ -37,16 +46,6 @@ Django follows the MVT (Model-View-Template) structure and supports several rela
 [Wagtail](https://wagtail.org/) is a CMS based on Django. It has a modern approach in that it comes with an API so that frontend developers can consume the data with a JavaScript framework, making it headless in a sense.  It has a killer feature called **Streamfields** which is similar to the WordPress Gutenberg blocks.
 
 Google, Nasa, Twilio, Oxfam, JPL, and NHS are some of the organizations using Wagtail making it a good choice for content management. I used it to create a portfolio site and basically learnt about programming by following the tutorial.  I would highly recommend it to anyone who wants to learn Django and backend programming.  There is a learning curve but I found it intuitive and enjoyable to use. 
-
-## Algorand
-Python can be used with the Algorand Blockchain to create smart contracts.  This is initially what attracted me to Algorand in the first place.  I went through their beginner Python tutorials and found it rather enjoyable.  There are certainly lots of complex topics involved in blockchain technology but using a language that makes the complexity a bit easier to understand is a powerful thing indeed. 
-
-### PyTEAL
-
-[See official Docs](https://pyteal.readthedocs.io/en/stable/index.html)
-
->With PyTeal, developers can easily write Algorand Smart Contracts (ASC1s) in Python. PyTeal supports both stateless and statefull smart contracts.
-
 
 ## PEP
 [PEP](https://peps.python.org/pep-0000/) is the Python Enhancement Proposals managed by the community who love the language. By adding enhancements, the language is updated every so often and new versions are released to the public.  Since the project is open source, anyone can be a part of the community. 

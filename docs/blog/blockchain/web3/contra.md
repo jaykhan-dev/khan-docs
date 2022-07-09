@@ -1,4 +1,15 @@
-
+---
+tags:
+  - contra
+  - freelance
+  - independent
+  - contractor
+  - remote
+  - usdc
+  - blockchain
+  - web3
+  - erc-20
+---
 
 # Contra
 A new platform for freelancers and independant contractors looking for flexibility and a modern sensibility. 

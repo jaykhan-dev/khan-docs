@@ -1,5 +1,13 @@
 ---
-sidebar: auto
+tags:
+  - e-commerce
+  - p2p
+  - blockchain
+  - web3
+  - headless
+  - modular
+  - api
+  - rest api
 ---
 
 # E-Commerce

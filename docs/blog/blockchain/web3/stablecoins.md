@@ -1,4 +1,13 @@
-
+---
+tags:
+  - stablecoins
+  - usdc
+  - tether
+  - blockchain
+  - decentralization
+  - algorand
+  - erc-20
+---
 
 # Stablecoins
 Stablecoins are digital currencies similar to crypto but tied to a reserve asset like Gold or USD.  This is beneficial to businesses who want a cheaper way to make transactions without a central bank and deal with their fees and legacy technology.  Secure by design, a stablecoin has value in the real world and the utility is less risky.

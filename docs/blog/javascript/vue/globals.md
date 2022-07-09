@@ -1,3 +1,13 @@
+---
+tags:
+  - vue js
+  - javascript
+  - globals
+  - lottie
+  - css
+  - netlify
+---
+
 # Global code snippets
 
 ## Netlify

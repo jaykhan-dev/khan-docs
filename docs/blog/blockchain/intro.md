@@ -1,4 +1,19 @@
-
+---
+tags:
+  - blockchain
+  - introduction
+  - satoshi
+  - bitcoin
+  - pow
+  - proof of work
+  - use cases
+  - web3
+  - trilema
+  - decentralization
+  - p2p
+  - distributed ledger technology
+  - dlt
+---
 
 # Intro to Blockchain
 
@@ -40,10 +55,6 @@ The problem with energy use may perhaps be a distraction.  There are studies tha
 Proof of Stake is a different consensus mechanism.  It invovles **staking** your coins in a stake pool so that you can become a validator, which is essentially similar to being a Bitcoin miner.  The key difference is that there is no cryptographic puzzle to solve and so the energy consumption is much smaller.  
 
 Ethereum which is currently using the Proof of Work consensus, is switching over to [Proof of Stake](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/). It requires 32ETH to be staked in order to become a validator.  Since the current price of ETH is over $3000 USD, it can be quite expensive.
-
-Algorand built their own [Pure Proof of Stake](https://www.algorand.com/technology/pure-proof-of-stake) which randomizes who becomes a validator.  Below is a brief description from their website:
-
->Algorand uses a pure proof-of-stake (PPoS) protocol built on Byzantine consensus. Each user’s influence on the choice of a new block is proportional to its stake (number of tokens) in the system. Users are randomly and secretly selected to propose blocks and vote on block proposals. All online users have the chance to be selected to propose and vote. The likelihood that a user will be chosen, and the weight of its proposals and votes, are directly proportional to its stake.
 
 ## Web3
 

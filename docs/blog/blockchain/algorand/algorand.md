@@ -1,3 +1,13 @@
+---
+tags:
+  - algorand
+  - blockchain
+  - pure pos
+  - proof of stake
+  - algo
+  - silvio micali
+  - finance
+---
 
 # Algorand
 

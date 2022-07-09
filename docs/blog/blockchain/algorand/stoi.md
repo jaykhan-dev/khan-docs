@@ -1,4 +1,10 @@
-
+---
+tags:
+  - blockchain
+  - algorand
+  - music
+  - stoi
+---
 
 # STOI
 
@@ -45,4 +51,3 @@ From DMC:
 
 >For years companies have been trying to get me to do something on blockchain. I have been hesitant because so much of it seemed about speculation, and I was worried about the environmental impact. I didn't want to be another celebrity putting out NFTs or whatever just because it's the hot thing to do and people are giving me money to do it. Then George Howard (arts advisor to Algorand and stoi.org founding member) reached out and introduced me to Algorand which has not only proven that blockchain can be carbon neutral, but is also already being used in so many ways that bring real value to the world. Releasing a STOI today is the first step in launching my DMC (Decentralized Media Company) with the larger goal of creating the next iteration of the music industry that values creators, fans and supports them all in the most transparent and fair way possible.
 
-![DMC portrait](/images/blog/algorand/dmc.jpg)

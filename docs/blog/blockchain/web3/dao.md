@@ -1,4 +1,10 @@
-
+---
+tags:
+  - blockchain
+  - dao
+  - decentralization
+  - p2p
+---
 
 # DAO
 

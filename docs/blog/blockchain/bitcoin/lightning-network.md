@@ -1,4 +1,15 @@
-
+---
+tags:
+  - blockchain
+  - bitcoin
+  - lightning network
+  - lnurl
+  - layer 2
+  - scaling
+  - payments
+  - borderless
+  - fast
+---
 
 # Lightning Network
 The Lightning Network is a layer 2 implementation on top of the Bitcoin blockchain to help it scale.  Without this solution, Bitcoin could never really become a world currency since billions of people have mobile phones and the potential to connect to the internet. 
@@ -16,6 +27,8 @@ Mobile wallets will be the main medium of interacting and transacting with the B
 [See article](https://telegra.ph/lnurl-a-protocol-for-seamless-interaction-between-services-and-Lightning-wallets-08-19)
 
 >lnurl is a protocol for communication between Lightning wallets and third-party services. It simplifies complicated common flows into standard subprotocols carried on between the user wallet and the service over simple HTTP JSON calls, leveraging the fact that the third-party services have the luxury of offering an https:// endpoint the user wallet can freely call.
+
+### LNURL-AUTH
 
 ### How it works
 
@@ -38,5 +51,5 @@ Mobile wallets will be the main medium of interacting and transacting with the B
 - [Munn](https://muun.com/)
 - [Strike](https://strike.me/en/)
 - [Blue Wallet](https://bluewallet.io/)
-- [Zeus]
+- [Zeus](https://zeusln.app/)
 - [Wallet of Satoshi]()

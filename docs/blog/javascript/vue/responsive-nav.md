@@ -1,3 +1,16 @@
+---
+tags:
+  - vue js
+  - javascript
+  - frontend
+  - html
+  - css
+  - navigation
+  - responsive
+  - mobile
+  - web
+---
+
 # Responsive Nav
 
 The following code snippets is a reference code for creating a top nav bar that works for desktop and mobile. 

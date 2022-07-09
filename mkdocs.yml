@@ -110,6 +110,7 @@ nav:
       - blog/blockchain/intro.md
       - Bitcoin:
         - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
+
       - Algorand:
         - Algorand Blockchain: blog/blockchain/algorand/algorand.md
         - STOI: blog/blockchain/algorand/stoi.md

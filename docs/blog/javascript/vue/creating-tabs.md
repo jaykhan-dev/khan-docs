@@ -1,5 +1,9 @@
 ---
-sidebar: auto
+tags:
+  - javascript
+  - vue js
+  - composition api
+  - slots
 ---
 
 # Creating Tabs
