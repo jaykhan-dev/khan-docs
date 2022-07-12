@@ -64,6 +64,9 @@ plugins:
 
 markdown_extensions:
   - meta
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 
 nav:
   - Docs Home: 
@@ -128,7 +131,7 @@ nav:
       - Intro to Python: blog/python/intro.md
       - Django:
         - Django intro: blog/python/django/django-intro.md
-        - Ninja CRUD: blog/python/django/ninja-crud.md
+        - API CRUD: blog/python/django/api-crud.md
         - Wagtail intro: blog/python/django/wagtail-intro.md
       
     - JavaScript:
