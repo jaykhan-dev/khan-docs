@@ -25,11 +25,32 @@ A budgeting application
 
 [See live project - Work in progress](https://budgetmore.com/)
 
-This project is a collaboration with a friend who is developing the backend logic. He is working with the Plaid API, CSV files, C#, and Mudblazor.
+### Overview
+
+- Conducted user search and usability testing to check functionality of the application
+- Created a new look and feel for the landing page 
+- Made sure design was responsive and worked on all devices
+- Worked closely with developer to find the optimal design
+- Created UI Patterns, UX flows, wireframes and prototypes
+
+### Premise
 
 The premise of the application is to help regular people with budgeting. This is achieved by importing data from a bank account and uploading it to the application for analysis. The idea is to make it intuitive and easy to look at the data point and find some insight or organization in managing finances.
 
-My role is UI/UX which involves creating wireframes, user flows, and maybe using Vue JS for the frontend but that is still to be decided.
+
+### Tech stack
+
+- Vue JS
+- Tailwind CSS
+- Github
+- Netlify
+
+The backend developer used the following:
+
+- Mudblazor
+- CSV files for mock data
+- Plaid API
+
 
 ## Wireframes
 The landing page is rather simple.  The only interaction is really in the login/signup section.  The footer is an overview of the whole project but since the backend is still being worked on, all the individual pages need copy and a design. 

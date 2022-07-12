@@ -23,12 +23,23 @@ tags:
 
 [Landing Page](https://appreci.netlify.app)
 
-## My Role
-My role was to create a new layout for the landing page to make it more appealing.  I used Vue JS and Tailwind CSS to create a design prototype and hosted it on Netlify for fast loads with HTTPS security.  With a strong background in graphic design, I was able to create the initial design in about 8 hours with scrolling animations and a responsive layout.   
+## Overview
 
-Additionally, I recreated 2 pages on their official WordPress site with Elementor which is a powerful tool but requires a subscription to get all the features.  I changed their product/catalogue page to make it a bit more modern with parallax images.  I found graphics, gifs, icons, and optimized images for the web.  
+- Worked closely with the marketing team to optimize the design
+- Created a new UI layout, UI patterns, and UX flows to make Call-to-action buttons more prominent
+- Explained design decisions to project manager and stakeholders 
+- Conducted user research and usability testing to ensure the UX was smooth.  Explored competitors websites. 
+- Made sure design was responsive for all devices
 
-## Project details
+### Tech stack
+- Vue JS
+- Tailwind CSS
+- Github
+- Netlify
+- WordPress
+- Elementor
+
+## Company details
 
 [Official site](https://appreci.io)
 

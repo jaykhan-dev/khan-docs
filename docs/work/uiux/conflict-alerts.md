@@ -10,27 +10,39 @@ tags:
   - html
   - css
   - javascript
+  - europe
+  - russia
+  - conflict
+  - war
 ---
 
 # Conflict Alerts
 
-## Project details
+![Conflict Alerts logo](/work/uiux/conflict-alerts/post.jpg)
+
+## Prototypes
 
 [See UI Design](https://conflict-alerts.netlify.app)
 
 [See prototype](https://conflictalerts.com/)
 
-Conflict Alerts is an app to help the Ukrainians.
+Conflict Alerts is an app to help the Ukrainians.  There is a project manager, Josh G, a backend team (Django) and a Frontend team (JavaScript). 
 
-The current war in Ukraine is troubling for the whole world because of Russia's aggression and how the international community is linked through trade and commerce.  If things get out of hand, this could have catastrophic consequences for the whole world. 
+## Overview
 
-*The premise is to allow locals to upload media to the site which will be marked on a map to help identify enemy location, weapons, and thus be able to determine strategies and tactics.*
+- Conducted user research, usability testing, based on quantitative data for map based applications
+- Designed a new UX flow, UI patterns using design tools to make it easier to determine strategies and tactics
+- Explained design decisions to stakeholders
+- Worked closely with other developers, data team, and project managers
 
-There is a project manager, Josh G, a backend team (Django) and a Frontend team (JavaScript). 
-The Github project is private at the moment. My responsibilities include branding, graphics, icons, and frontend.
-I used Adobe Illustrator to create the icons and logo, and XD to for the wireframes and User Flows.
+### Tech stack
 
-![Conflict Alerts logo](/work/uiux/conflict-alerts/post.jpg)
+- Vue JS
+- Tailwind CSS
+- Django
+- Github
+- ArcGIS
+- Discord
 
 ## Graphics and branding
 
