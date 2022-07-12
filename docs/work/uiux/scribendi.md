@@ -21,13 +21,9 @@ tags:
 ## Overview
 
 - Designing the best user experiences based on user research and using an evidence-based approach to achieve a consistent and seamless omnichannel experience.
-
 - Developed UX processes, flows and used design tools to build UI patterns.
-
 - Explained designs decisions to project manager. Owning features design. Knows when and how to involve stakeholders.
-
 - Worked closely with graphic designers, developers and marketing team.
-
 - Conducted user research and usability testing, organized and analyzed research findings for a better understanding of user insight, assist in wireframing, sketching, prototyping, and creating user flows.
 
 ### Tech stack
