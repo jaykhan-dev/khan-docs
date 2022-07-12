@@ -17,7 +17,7 @@ It was like someone had turned on a lightbulb in a dark room, or the clouds had 
 
 ## Blockchain
 
-[Endeavr](/work/blockchain/endeavr/README.md) is the main project related to music and blockchain that is based around my production work. 
+[Endeavr](https://endeavr.pages.dev) is the main project related to music and blockchain that is based around my production work. 
 
 >It is a far better policy to deal with fans directly.  
 

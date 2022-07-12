@@ -13,11 +13,6 @@ tags:
 A work in progress.  For the past few years I've been producing individual tracks that didn't have much of a connection with each other.  I decided to consolidate
 all the music I made into one album.
 
-## NFT 
-The NFTs are currently in progress.  They will be minted on the Algorand blockchain.
-
-[NFT Endeavr](https://music-endeavr.netlify.app/music)
-
 ## Tracks
 
 1. [Ophelia](https://soundcloud.com/mixbase-cloud/ophelia-final?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
