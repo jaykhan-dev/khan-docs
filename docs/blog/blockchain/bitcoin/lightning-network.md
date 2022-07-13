@@ -30,6 +30,9 @@ Mobile wallets will be the main medium of interacting and transacting with the B
 
 ### LNURL-AUTH
 
+### Passport
+[PassportJS official site](https://www.passportjs.org/packages/passport-lnurl-auth/)
+
 ### How it works
 
 > 1. The wallet reads a QR code;
@@ -38,15 +41,30 @@ Mobile wallets will be the main medium of interacting and transacting with the B
 > 4. In the case of lnurl-withdraw, for example, the server response will contain some parameters (min/max, default description) for the invoice that will be generated in the user wallet;
 > 5. The wallet proceeds with the subprotocol. In the case of lnurl-withdraw, for example, it will display an invoice generation window prefilled with the parameters returned by the server, and, upon confirmation by the user, send the invoice back to the server, which will pay it.
 
+## LND
+
+
+
+## LSAT
+
+### Macaroons
+
+### BOLTWALL
+
+
 ## Resources
 - [Whitepaper](https://lightning.network/lightning-network-paper.pdf)
 - [Lightning Labs](https://lightning.engineering/)
 - [Jameson Lopp](https://www.lopp.net/lightning-information.html)
 - [Umbrel](https://getumbrel.com/)
 - [Arcane](https://arcane.no/research)
-
+- [Bitcoin Developer Guide](https://developer.bitcoin.org/devguide/)
+- [Lightning Engineering](https://docs.lightning.engineering/)
 
 ## Wallets
+
+The following wallets use the Lightning Network:
+
 - [Phoenix](https://phoenix.acinq.co/)
 - [Munn](https://muun.com/)
 - [Strike](https://strike.me/en/)
