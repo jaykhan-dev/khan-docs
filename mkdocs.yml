@@ -144,6 +144,8 @@ nav:
         - Marquee: blog/javascript/vue/marquee.md
         - Pinia: blog/javascript/vue/pinia-algo.md
         - Responsive Nav: blog/javascript/vue/responsive-nav.md
+      - Express:
+        - Express intro: blog/javascript/express/express-intro.md
     
     - Philosohpy:
       - Alan Watts: blog/philosophy/alan-watts.md
