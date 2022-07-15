@@ -133,6 +133,7 @@ nav:
       - Django:
         - Django intro: blog/python/django/django-intro.md
         - API CRUD: blog/python/django/api-crud.md
+        - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
         - Wagtail intro: blog/python/django/wagtail-intro.md
       
     - JavaScript:
