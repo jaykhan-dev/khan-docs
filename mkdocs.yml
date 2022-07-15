@@ -132,7 +132,7 @@ nav:
       - Intro to Python: blog/python/intro.md
       - Django:
         - Django intro: blog/python/django/django-intro.md
-        - API CRUD: blog/python/django/api-crud.md
+        - Ninja CRUD: blog/python/django/ninja-crud.md
         - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
         - Wagtail intro: blog/python/django/wagtail-intro.md
       
@@ -147,6 +147,7 @@ nav:
         - Responsive Nav: blog/javascript/vue/responsive-nav.md
         - Tab slots: blog/javascript/vue/creating-tabs.md
         - Tab pages: blog/javascript/vue/pages-tabs.md
+        - Tailwind CSS: blog/javascript/vue/tailwind-css.md
       - Express:
         - Express intro: blog/javascript/express/express-intro.md
     
