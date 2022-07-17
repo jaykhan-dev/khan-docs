@@ -22,19 +22,22 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
 
-### Configure
+### Configure `tailwind.config.js`
 
 ```js
+// eslint-disable-next-line no-undef
 module.exports = {
-  content: [
-    "./index.html",
-    "./src/**/*.{vue,js,ts,jsx,tsx}",
-  ],
+  content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
     extend: {},
   },
   plugins: [],
-}
+  darkMode: "class",
+  variants: {
+    extend: { display: ["dark"] },
+  },
+};
+
 ```
 
 ### `index.css`
@@ -53,6 +56,18 @@ import App from './App.vue'
 import './index.css'
 
 createApp(App).mount('#app')
+```
+
+### `postcss.config.js`
+
+```js
+/* eslint-disable no-undef */
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
 ```
 
 ### run application
