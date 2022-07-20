@@ -114,8 +114,9 @@ nav:
       - blog/blockchain/intro.md
       - Bitcoin:
         - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
-        - Stacks: blog/blockchain/bitcoin/stacks.md
-
+      - Stacks: 
+        - Stacks intro: blog/blockchain/bitcoin/stacks-intro.md
+        - Clarity intro: blog/blockchain/bitcoin/clarity-intro.md
       - Algorand:
         - Algorand Blockchain: blog/blockchain/algorand/algorand.md
         - STOI: blog/blockchain/algorand/stoi.md
