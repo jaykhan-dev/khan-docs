@@ -35,12 +35,10 @@ html {
 }
 ```
 
-## Scripts
+## Fontawesome CDN
 Some scripts I use to add icons and Lottie files.
 
 ```html
-<!-- LOTTIE -->
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 <!-- FONT AWESOME -->
 <link 
     rel="stylesheet" 
@@ -48,4 +46,21 @@ Some scripts I use to add icons and Lottie files.
     integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" 
     crossorigin="anonymous" 
     referrerpolicy="no-referrer" />
+```
+
+## Lottie files
+
+```html
+<!-- LOTTIE -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player
+    src="https://assets1.lottiefiles.com/packages/lf20_vfmyxu76.json"
+    background="transparent"
+    speed="1"
+    loop
+    autoplay
+    class="opacity-50"
+    style="width: 100px; height: 100px"
+></lottie-player>
 ```

@@ -29,7 +29,7 @@ The following table highlights the main technology stack that I am familiar with
 ### Blockchain
 | Software | Description |
 | ----------- | ----------- |
-| [Bitcoin](https://www.bitcoin.org/) | Lightning |
+| [Bitcoin](https://www.bitcoin.org/) | Lightning, Stacks |
 | [Algorand](https://www.algorand.com/) | Web3, NFTs, DeFi |
 
 ### Version Control
