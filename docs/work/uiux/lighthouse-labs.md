@@ -27,13 +27,17 @@ tags:
 10. New Footer
 11. "General" blog is too broad.  Better to break it down into more specific categories.
 12. Less bloat in the code increases page loading speeds
-13. 
 
 ## Challenges
 
 The biggest challenge is to create a structure for the blog.  Instead of just having a list of posts with a category and ordered by latest date, an interesting blog is broken down into different sections by category and displayed differently rather than a uniform layout. 
 
-For the purposes of this assignment, I copied a few articles from the current blog to demonstrate the reorganization. 
+For the purposes of this assignment, I copied a few articles, header images, excerpts and the first few paragraphics from the existing blog to demonstrate the reorganization. 
+
+The purpose of takinga bootcamp at Lighthouse Labs is to learn a coding skill and landing a job. 
+
+- Showcase students and their stories
+- Give career advice and how to land a job
 
 ## Philosophy
 
