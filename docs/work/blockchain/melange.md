@@ -24,14 +24,15 @@ tags:
 
 [Github](https://github.com/jaykhan-dev/melange.git)
 
-Melange Labs is an incubator for Lightning Apps.  A user can browse open source projects and ask the project manager to join.  The purpose is to find developers, investors and raise capital.  Bitcoin is being adopted by more companies and businesses.  However, the base layer cannot scale to the required amount of transactions per second which is why the Lightning Network exists.
+Melange is an incubator and forum for Bitcoin Apps. A user can browse open source projects and ask the project manager to join. The purpose is to find developers, investors and raise capital. Bitcoin is being adopted by more companies and businesses.
 
-The project is still under construction. 
+The project is still under construction.
 
 ## Overview
 
 - Designed the UI with Vue JS and Tailwind CSS
-- Created UX flows, and new UI patterns 
+- Used the Stacks Vue starter to create authentication with the Hiro Wallet
+- Created UX flows, and new UI patterns
 - Conducted user research to better understand who will be using the platform
 
 ### Tech stack
@@ -39,10 +40,10 @@ The project is still under construction.
 - Vue JS
 - Tailwind CSS
 - Django/Wagtail
-- Express JS
-- LNURL-AUTH
+- Stacks blockchain
+- Hiro Wallet
 
 ## Roadmap
 
-- Setup up Lightning Login
-- CRUD for creating new projects for users
+- Build Forum backend with Django
+- Build API for adding projects for logged in Users.

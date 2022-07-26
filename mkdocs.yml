@@ -21,7 +21,7 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -41,17 +41,17 @@ copyright: Copyright &copy; 2022 Jay Khan
 extra:
   homepage: https://jkhan.live
   social:
-    - icon: fontawesome/brands/twitter 
+    - icon: fontawesome/brands/twitter
       link: https://twitter.com/jaykhan_sound
-    - icon: fontawesome/brands/instagram 
+    - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/jkhan.sound
-    - icon: fontawesome/brands/github 
+    - icon: fontawesome/brands/github
       link: https://github.com/jaykhan-dev
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/jkhanprofile
   consent:
     title: Cookie consent
-    description: >- 
+    description: >-
       We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
@@ -66,101 +66,100 @@ markdown_extensions:
   - meta
   - pymdownx.superfences
   - pymdownx.tabbed:
-      alternate_style: true 
+      alternate_style: true
 
 nav:
-  - Docs Home: 
-    - index.md
-    - Services: about/services.md
-    - Resume: about/resume.md
-    - Tech: about/tech.md
-    - Bio: about/bio.md
-    - Contact: about/contact.md
-    
+  - Docs Home:
+      - index.md
+      - Services: about/services.md
+      - Resume: about/resume.md
+      - Tech: about/tech.md
+      - Bio: about/bio.md
+      - Contact: about/contact.md
+
   - Work:
-    - work/index.md
-    
-    - UI/UX:
-      - Intro: work/uiux/intro.md
-      - Appreci: work/uiux/appreci.md
-      - Scribendi: work/uiux/scribendi.md
-      - Budgetmore: work/uiux/budgetmore.md
-      - Conflict Alerts: work/uiux/conflict-alerts.md
-      - Shaybeas: work/uiux/shaybeas.md
-      
-    - Blockchain:
-      - Intro: work/blockchain/intro.md
-      - Melange Labs: work/blockchain/melange-labs.md
-      - Songbook: work/blockchain/songbook.md
-      - Sound Money: work/blockchain/sound-money.md
-      - Pitbull Community: work/blockchain/pitbull-community.md
+      - work/index.md
 
-    - Graphic Design:
-      - Intro: work/graphic-design/intro.md
-      - Logos: work/graphic-design/logos.md
-      - Posters: work/graphic-design/posters.md
-      - Marketing: work/graphic-design/marketing.md
-      - Social Media: work/graphic-design/social-media.md
-      - Motion Graphics: work/graphic-design/motion-graphics.md
+      - UI/UX:
+          - Intro: work/uiux/intro.md
+          - Appreci: work/uiux/appreci.md
+          - Scribendi: work/uiux/scribendi.md
+          - Budgetmore: work/uiux/budgetmore.md
+          - Conflict Alerts: work/uiux/conflict-alerts.md
+          - Shaybeas: work/uiux/shaybeas.md
 
-    - Design Philosophy: work/design-philosophy.md
+      - Blockchain:
+          - Intro: work/blockchain/intro.md
+          - Melange: work/blockchain/melange.md
+          - Songbook: work/blockchain/songbook.md
+          - Sound Money: work/blockchain/sound-money.md
+          - Pitbull Community: work/blockchain/pitbull-community.md
 
-    - Content Strategy: work/content-strategy.md
-    
-  - Blog: 
-    - blog/index.md
-    
-    - Blockchain:
-      - blog/blockchain/intro.md
-      - Bitcoin:
-        - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
-      - Stacks: 
-        - Stacks intro: blog/blockchain/bitcoin/stacks-intro.md
-        - Clarity intro: blog/blockchain/bitcoin/clarity-intro.md
-      - Algorand:
-        - Algorand Blockchain: blog/blockchain/algorand/algorand.md
-        - STOI: blog/blockchain/algorand/stoi.md
-      - Web3: 
-        - Contra: blog/blockchain/web3/contra.md
-        - DAO: blog/blockchain/web3/dao.md
-        - DeFi: blog/blockchain/web3/defi.md
-        - E-Commerce: blog/blockchain/web3/e-comm.md
-        - The Industry: blog/blockchain/web3/industry.md
-        - Stablecoins: blog/blockchain/web3/stablecoins.md
-        - Web3 Jobs: blog/blockchain/web3/web3-jobs.md
-        - Integration: blog/blockchain/web3/web3-integration.md
-    
-    - Python:
-      - Intro to Python: blog/python/intro.md
-      - Django:
-        - Django intro: blog/python/django/django-intro.md
-        - Ninja CRUD: blog/python/django/ninja-crud.md
-        - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
-        - Wagtail intro: blog/python/django/wagtail-intro.md
-      
-    - JavaScript:
-      - Vue JS:
-        - Intro: blog/javascript/vue/vue-js.md
-        - Stacks setup: blog/javascript/vue/stacks-setup.md
-        - Globals: blog/javascript/vue/globals.md
-        - Tabs: blog/javascript/vue/creating-tabs.md
-        - GSAP: blog/javascript/vue/gsap.md
-        - Marquee: blog/javascript/vue/marquee.md
-        - Pinia: blog/javascript/vue/pinia-algo.md
-        - Responsive Nav: blog/javascript/vue/responsive-nav.md
-        - Tab slots: blog/javascript/vue/creating-tabs.md
-        - Tab pages: blog/javascript/vue/pages-tabs.md
-        - Tailwind CSS: blog/javascript/vue/tailwind-css.md
-      - Express:
-        - Express intro: blog/javascript/express/express-intro.md
-    
-    - Philosohpy:
-      - Alan Watts: blog/philosophy/alan-watts.md
-      - Art of War: blog/philosophy/art-of-war.md
-      - The Stoics: blog/philosophy/stoics.md
-      - Musashi: blog/philosophy/musashi.md
+      - Graphic Design:
+          - Intro: work/graphic-design/intro.md
+          - Logos: work/graphic-design/logos.md
+          - Posters: work/graphic-design/posters.md
+          - Marketing: work/graphic-design/marketing.md
+          - Social Media: work/graphic-design/social-media.md
+          - Motion Graphics: work/graphic-design/motion-graphics.md
+
+      - Design Philosophy: work/design-philosophy.md
+
+      - Content Strategy: work/content-strategy.md
+
+  - Blog:
+      - blog/index.md
+
+      - Blockchain:
+          - blog/blockchain/intro.md
+          - Bitcoin:
+              - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
+          - Stacks:
+              - Stacks intro: blog/blockchain/bitcoin/stacks-intro.md
+              - Clarity intro: blog/blockchain/bitcoin/clarity-intro.md
+          - Algorand:
+              - Algorand Blockchain: blog/blockchain/algorand/algorand.md
+              - STOI: blog/blockchain/algorand/stoi.md
+          - Web3:
+              - Contra: blog/blockchain/web3/contra.md
+              - DAO: blog/blockchain/web3/dao.md
+              - DeFi: blog/blockchain/web3/defi.md
+              - E-Commerce: blog/blockchain/web3/e-comm.md
+              - The Industry: blog/blockchain/web3/industry.md
+              - Stablecoins: blog/blockchain/web3/stablecoins.md
+              - Web3 Jobs: blog/blockchain/web3/web3-jobs.md
+              - Integration: blog/blockchain/web3/web3-integration.md
+
+      - Python:
+          - Intro to Python: blog/python/intro.md
+          - Django:
+              - Django intro: blog/python/django/django-intro.md
+              - Ninja CRUD: blog/python/django/ninja-crud.md
+              - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
+              - Wagtail intro: blog/python/django/wagtail-intro.md
+
+      - JavaScript:
+          - Vue JS:
+              - Intro: blog/javascript/vue/vue-js.md
+              - Stacks setup: blog/javascript/vue/stacks-setup.md
+              - Globals: blog/javascript/vue/globals.md
+              - Tabs: blog/javascript/vue/creating-tabs.md
+              - GSAP: blog/javascript/vue/gsap.md
+              - Marquee: blog/javascript/vue/marquee.md
+              - Pinia: blog/javascript/vue/pinia-algo.md
+              - Responsive Nav: blog/javascript/vue/responsive-nav.md
+              - Tab slots: blog/javascript/vue/creating-tabs.md
+              - Tab pages: blog/javascript/vue/pages-tabs.md
+              - Tailwind CSS: blog/javascript/vue/tailwind-css.md
+          - Express:
+              - Express intro: blog/javascript/express/express-intro.md
+
+      - Philosohpy:
+          - Alan Watts: blog/philosophy/alan-watts.md
+          - Art of War: blog/philosophy/art-of-war.md
+          - The Stoics: blog/philosophy/stoics.md
+          - Musashi: blog/philosophy/musashi.md
 
   - Music:
-    - music/index.md
-    - Eternal Blue Sky: music/ebs.md
-
+      - music/index.md
+      - Eternal Blue Sky: music/ebs.md
