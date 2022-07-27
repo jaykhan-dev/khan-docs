@@ -134,6 +134,7 @@ nav:
           - Intro to Python: blog/python/intro.md
           - Django:
               - Django intro: blog/python/django/django-intro.md
+              - Heroku Deployment: blog/python/django/heroku-deployment.md
               - Ninja CRUD: blog/python/django/ninja-crud.md
               - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
               - Wagtail intro: blog/python/django/wagtail-intro.md
