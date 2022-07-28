@@ -18,9 +18,9 @@ tags:
 ## Categories
 
 - UI/UX
+- Frontend Development with Vue JS
 - Graphic design
-- WordPress
-- Landing Page
+- WordPress/Webflow design
 
 ## Deliverables
 
@@ -28,11 +28,11 @@ tags:
 2. Prototype - Figma, Adobe XD, Vue JS
 3. Digital assets - Photoshop, illustrator, After effects, Premiere Pro
 
-
 ## Freelancing platforms
 
 ### Contra
-Contra is a cool new platform for independents, freelancers and contractors.  They primarily use USDC as the payout means.  
+
+Contra is a cool new platform for independents, freelancers and contractors. They primarily use USDC as the payout means.
 
 [Contra Profile](https:/contra.com/jkhan_design)
 
@@ -40,7 +40,3 @@ Contra is a cool new platform for independents, freelancers and contractors.  Th
 
 1. No commission fees
 2. Clients don't need to interact with the blockchain if they don't want to
-
-
-
-
