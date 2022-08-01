@@ -144,6 +144,7 @@ nav:
               - Intro: blog/javascript/vue/vue-js.md
               - Stacks setup: blog/javascript/vue/stacks-setup.md
               - Nuxt ToDo: blog/javascript/vue/nuxt-todo.md
+              - Trois JS: blog/javascript/vue/trois-js.md
               - Globals: blog/javascript/vue/globals.md
               - Tabs: blog/javascript/vue/creating-tabs.md
               - GSAP: blog/javascript/vue/gsap.md

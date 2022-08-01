@@ -91,7 +91,7 @@ db.sqlite3
 ## `.env`
 
 ```
-DJANGO_SETTINGS_MODULE=config.settings.production
+DJANGO_SETTINGS_MODULE=config.production
 SECRET_KEY = 'SECRET-KEY'
 ```
 
@@ -214,5 +214,3 @@ urlpatterns = [
     path('api/', include('tasks.urls')),
 ]
 ```
-
-##
