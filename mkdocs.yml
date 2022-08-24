@@ -111,12 +111,6 @@ nav:
           - blog/blockchain/intro.md
           - Bitcoin:
               - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
-          - Stacks:
-              - Stacks intro: blog/blockchain/bitcoin/stacks-intro.md
-              - Clarity intro: blog/blockchain/bitcoin/clarity-intro.md
-          - Algorand:
-              - Algorand Blockchain: blog/blockchain/algorand/algorand.md
-              - STOI: blog/blockchain/algorand/stoi.md
           - Web3:
               - Contra: blog/blockchain/web3/contra.md
               - DAO: blog/blockchain/web3/dao.md
@@ -135,11 +129,15 @@ nav:
               - Ninja CRUD: blog/python/django/ninja-crud.md
               - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
               - Wagtail intro: blog/python/django/wagtail-intro.md
+          - EarSketch:
+              - EarSketch Intro: blog/python/earsketch/earsketch-intro.md
+          - General:
+              - Hash Functions: blog/python/general/hash-functions.md
 
       - JavaScript:
           - Vue JS:
               - Intro: blog/javascript/vue/vue-js.md
-              - Stacks setup: blog/javascript/vue/stacks-setup.md
+              - Axios CRUD: blog/javascript/vue/axios-crud.md
               - Nuxt ToDo: blog/javascript/vue/nuxt-todo.md
               - Trois JS: blog/javascript/vue/trois-js.md
               - Globals: blog/javascript/vue/globals.md
@@ -151,8 +149,17 @@ nav:
               - Tab slots: blog/javascript/vue/creating-tabs.md
               - Tab pages: blog/javascript/vue/pages-tabs.md
               - Tailwind CSS: blog/javascript/vue/tailwind-css.md
+              - Stacks setup: blog/javascript/vue/stacks-setup.md
+
           - Express:
               - Express intro: blog/javascript/express/express-intro.md
+              - Postgres CRUD: blog/javascript/express/postgres-crud.md
+              - Bitcoin Lightning: blog/javascript/express/bitcoin-lightning.md
+              - Deployment: blog/javascript/express/deployment.md
+
+      - SQL:
+          - Common:
+              - Commands: blog/sql/common-commands.md
 
       - Philosohpy:
           - Alan Watts: blog/philosophy/alan-watts.md
