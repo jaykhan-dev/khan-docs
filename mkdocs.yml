@@ -69,27 +69,20 @@ markdown_extensions:
       alternate_style: true
 
 nav:
-  - Docs Home:
+  - Home:
       - index.md
-      - Services: about/services.md
       - Resume: about/resume.md
-      - Tech: about/tech.md
-      - Bio: about/bio.md
       - Contact: about/contact.md
 
   - Work:
       - work/index.md
 
-      - UI/UX:
+      - Web Design/Development:
           - Intro: work/uiux/intro.md
           - Appreci: work/uiux/appreci.md
           - Scribendi: work/uiux/scribendi.md
           - Budgetmore: work/uiux/budgetmore.md
           - Shaybeas: work/uiux/shaybeas.md
-
-      - Blockchain:
-          - Intro: work/blockchain/intro.md
-          - Songbook: work/blockchain/songbook.md
           - Pitbull Community: work/blockchain/pitbull-community.md
 
       - Graphic Design:
@@ -104,35 +97,8 @@ nav:
 
       - Content Strategy: work/content-strategy.md
 
-  - Blog:
+  - Tech Blog:
       - blog/index.md
-
-      - Blockchain:
-          - blog/blockchain/intro.md
-          - Bitcoin:
-              - Lightning Network: blog/blockchain/bitcoin/lightning-network.md
-          - Web3:
-              - Contra: blog/blockchain/web3/contra.md
-              - DAO: blog/blockchain/web3/dao.md
-              - DeFi: blog/blockchain/web3/defi.md
-              - E-Commerce: blog/blockchain/web3/e-comm.md
-              - The Industry: blog/blockchain/web3/industry.md
-              - Stablecoins: blog/blockchain/web3/stablecoins.md
-              - Web3 Jobs: blog/blockchain/web3/web3-jobs.md
-              - Integration: blog/blockchain/web3/web3-integration.md
-
-      - Python:
-          - Intro to Python: blog/python/intro.md
-          - Django:
-              - Django intro: blog/python/django/django-intro.md
-              - Heroku Deployment: blog/python/django/heroku-deployment.md
-              - Ninja CRUD: blog/python/django/ninja-crud.md
-              - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
-              - Wagtail intro: blog/python/django/wagtail-intro.md
-          - EarSketch:
-              - EarSketch Intro: blog/python/earsketch/earsketch-intro.md
-          - General:
-              - Hash Functions: blog/python/general/hash-functions.md
 
       - JavaScript:
           - Vue JS:
@@ -151,22 +117,28 @@ nav:
               - Tailwind CSS: blog/javascript/vue/tailwind-css.md
               - Stacks setup: blog/javascript/vue/stacks-setup.md
 
+          - React:
+              - Intro: blog/javascript/react/intro.md
+              - React Basics: blog/javascript/react-basics.md
+              - React Hooks: blog/javascript/react-hooks.md
+
           - Express:
               - Express intro: blog/javascript/express/express-intro.md
               - Postgres CRUD: blog/javascript/express/postgres-crud.md
               - Bitcoin Lightning: blog/javascript/express/bitcoin-lightning.md
               - Deployment: blog/javascript/express/deployment.md
 
+      - Python:
+          - Intro to Python: blog/python/intro.md
+          - Django:
+              - Django intro: blog/python/django/django-intro.md
+              - Heroku Deployment: blog/python/django/heroku-deployment.md
+              - Ninja CRUD: blog/python/django/ninja-crud.md
+              - Rest Framework CRUD: blog/python/django/rest-framework-crud.md
+              - Wagtail intro: blog/python/django/wagtail-intro.md
+          - General:
+              - Hash Functions: blog/python/general/hash-functions.md
+
       - SQL:
           - Common:
               - Commands: blog/sql/common-commands.md
-
-      - Philosohpy:
-          - Alan Watts: blog/philosophy/alan-watts.md
-          - Art of War: blog/philosophy/art-of-war.md
-          - The Stoics: blog/philosophy/stoics.md
-          - Musashi: blog/philosophy/musashi.md
-
-  - Music:
-      - music/index.md
-      - Eternal Blue Sky: music/ebs.md
